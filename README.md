@@ -22,8 +22,13 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0013-roman-to-integer](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
