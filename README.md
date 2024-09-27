@@ -31,4 +31,12 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
