@@ -8,6 +8,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,5 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
