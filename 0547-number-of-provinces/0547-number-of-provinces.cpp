@@ -7,14 +7,14 @@ public:
 
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
-                dfsOfGraph(visited, i, isConnected);
+                connectOfGraph(visited, i, isConnected);
                 provinces++;
             }
         }
         return provinces;
     }
 
-    void dfsOfGraph(vector<int> &visited, int node, vector<vector<int>> &isConnected) {
+    void connectOfGraph(vector<int> &visited, int node, vector<vector<int>> &isConnected) {
         stack<int> s;
         s.push(node);
         visited[node] = 1;
