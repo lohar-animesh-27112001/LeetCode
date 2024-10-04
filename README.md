@@ -24,6 +24,7 @@ Here have all solutions which I solved in LeetCode
 | [0013-roman-to-integer](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
