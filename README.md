@@ -25,6 +25,7 @@ Here have all solutions which I solved in LeetCode
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -95,4 +96,12 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
