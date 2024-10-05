@@ -43,6 +43,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Here have all solutions which I solved in LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -104,4 +106,12 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
