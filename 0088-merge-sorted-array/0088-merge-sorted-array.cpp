@@ -22,6 +22,7 @@ public:
                 v.push_back(nums2[j]);
             }
         }
+
         nums1 = v;
     }
 };
