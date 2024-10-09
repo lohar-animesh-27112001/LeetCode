@@ -32,23 +32,23 @@ public:
         isMirror(leftNode->right, rightNode->left);
     }
 
-    // bool isSymmetric2(TreeNode* root) {
-    //     vector <int> v1;
-    //     vector <int> v2;
-    //     inorder(root->left, v1);
-    //     inorder(root->right, v2);
-    //     reverse(v2.begin(), v2.end());
-    //     if(v1 == v2) {
-    //         return true;
-    //     }
-    //     return false;
-    // }
+    bool isSymmetric2(TreeNode* root) {
+        vector <int> v1;
+        vector <int> v2;
+        inorder(root->left, v1);
+        inorder(root->right, v2);
+        reverse(v2.begin(), v2.end());
+        if(v1 == v2) {
+            return true;
+        }
+        return false;
+    }
 
-    // void inorder(TreeNode* node, vector<int> &v) {
-    //     if(node != nullptr) {
-    //         inorder(node->left, v);
-    //         v.push_back(node->val);
-    //         inorder(node->right, v);
-    //     }
-    // }
+    void inorder(TreeNode* node, vector<int> &v) {
+        if(node != nullptr) {
+            inorder(node->left, v);
+            v.push_back(node->val);
+            inorder(node->right, v);
+        }
+    }
 };
