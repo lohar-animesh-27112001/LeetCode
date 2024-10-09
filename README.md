@@ -83,12 +83,14 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Union Find
@@ -116,11 +118,13 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0101-symmetric-tree) |
 ## Sorting
 |  |
 | ------- |
