@@ -17,6 +17,7 @@ public:
         }
         int leftNode = maxDepth(root->left);
         int rightNode = maxDepth(root->right);
+
         return 1 + max(leftNode, rightNode);
     }
 };
