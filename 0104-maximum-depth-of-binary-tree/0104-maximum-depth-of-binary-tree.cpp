@@ -15,6 +15,7 @@ public:
         if(root == nullptr) {
             return 0;
         }
+        
         int leftNode = maxDepth(root->left);
         int rightNode = maxDepth(root->right);
 
