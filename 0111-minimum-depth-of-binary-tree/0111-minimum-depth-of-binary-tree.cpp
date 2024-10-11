@@ -16,10 +16,10 @@ public:
             return 0;
         }
         if(root->left == nullptr) {
-            return minDepth(root->right) + 1;
+            return 1 + minDepth(root->right);
         }
         if(root->right == nullptr) {
-            return minDepth(root->left) + 1;
+            return 1 + minDepth(root->left);
         }
         return 1 + min(minDepth(root->left), minDepth(root->right));
     }
