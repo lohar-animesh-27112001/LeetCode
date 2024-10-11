@@ -87,6 +87,7 @@ Here have all solutions which I solved in LeetCode
 | [0101-symmetric-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -95,6 +96,7 @@ Here have all solutions which I solved in LeetCode
 | [0100-same-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Union Find
@@ -126,6 +128,7 @@ Here have all solutions which I solved in LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +138,7 @@ Here have all solutions which I solved in LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Sorting
 |  |
 | ------- |
