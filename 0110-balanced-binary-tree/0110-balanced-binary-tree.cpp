@@ -13,7 +13,7 @@ class Solution {
 public:
     bool isBalanced(TreeNode* root) {
         bool balanced = true;
-        cout << getHeight(root, balanced);
+        getHeight(root, balanced);
         return balanced;
     }
     int getHeight(TreeNode* node, bool &balanced) {
