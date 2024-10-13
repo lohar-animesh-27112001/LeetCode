@@ -4,16 +4,16 @@ public:
         int i = 0, r = s.length() - 1;
         while(i < r) {
             while(i < r && !isalnum(s[i])) {
-                ++i;
+                i++;
             }
             while(i < r && !isalnum(s[r])) {
-                --r;
+                r--;
             }
             if(tolower(s[i]) != tolower(s[r])) {
                 return false;
             }
-            ++i;
-            --r;
+            i++;
+            r--;
         }
         return true;
     }
