@@ -32,6 +32,7 @@ Here have all solutions which I solved in LeetCode
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
 ## String
@@ -44,6 +45,7 @@ Here have all solutions which I solved in LeetCode
 | [0058-length-of-last-word](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
