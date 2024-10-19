@@ -22,6 +22,7 @@ Here have all solutions which I solved in LeetCode
 | [0013-roman-to-integer](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Here have all solutions which I solved in LeetCode
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Here have all solutions which I solved in LeetCode
 | [0125-valid-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
