@@ -23,6 +23,7 @@ Here have all solutions which I solved in LeetCode
 | [0013-roman-to-integer](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 ## Math
@@ -65,6 +66,7 @@ Here have all solutions which I solved in LeetCode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -81,6 +83,7 @@ Here have all solutions which I solved in LeetCode
 | [0125-valid-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
