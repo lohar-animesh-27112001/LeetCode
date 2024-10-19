@@ -109,6 +109,7 @@ Here have all solutions which I solved in LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,14 +120,17 @@ Here have all solutions which I solved in LeetCode
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
