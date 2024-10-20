@@ -11,19 +11,34 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> v;
-        while(head != nullptr) {
-            v.push_back(head->val);
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        if(fast != nullptr) {
+            slow = slow->next;
+        }
+        slow = reverseList(slow);
+        while(slow) {
+            if(slow->val != head->val) {
+                return false;
+            }
+            slow = slow->next;
             head = head->next;
         }
-        vector<int> v_rev = v;
-        reverse(v_rev.begin(), v_rev.end());
-        if(v == v_rev) {
-            return true;
+        return true;
+    }
+private:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = nullptr;
+        while(head) {
+            ListNode* next = head->next;
+            head->next = prev;
+            prev = head;
+            head = next;
         }
-        for(int i = 0; i < v.size(); i++) {
-            cout << v[i] << " " << v_rev[i] << ",";
-        }
-        return false;
+        return prev;
     }
 };
