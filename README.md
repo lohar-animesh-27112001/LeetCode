@@ -19,6 +19,7 @@ Here have all solutions which I solved in LeetCode
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -99,6 +100,7 @@ Here have all solutions which I solved in LeetCode
 | [0160-intersection-of-two-linked-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
