@@ -31,6 +31,7 @@ Here have all solutions which I solved in LeetCode
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Here have all solutions which I solved in LeetCode
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 ## Trie
 |  |
@@ -189,6 +191,7 @@ Here have all solutions which I solved in LeetCode
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
