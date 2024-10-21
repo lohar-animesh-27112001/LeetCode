@@ -18,6 +18,7 @@ Here have all solutions which I solved in LeetCode
 | [0136-single-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -32,6 +33,7 @@ Here have all solutions which I solved in LeetCode
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Here have all solutions which I solved in LeetCode
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
 ## String
 |  |
@@ -105,6 +108,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +116,7 @@ Here have all solutions which I solved in LeetCode
 | [0136-single-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +197,7 @@ Here have all solutions which I solved in LeetCode
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
