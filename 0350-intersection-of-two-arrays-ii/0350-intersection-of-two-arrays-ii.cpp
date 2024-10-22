@@ -7,7 +7,7 @@ public:
             mp[i] = mp[i] + 1;
         }
         for(int i : nums2) {
-            auto it = mp.find(i);
+            map<int, int>::iterator it = mp.find(i);
             if(it != mp.cend() && it->second > 0) {
                 ans.push_back(i);
                 it->second--;
