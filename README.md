@@ -20,6 +20,7 @@ Here have all solutions which I solved in LeetCode
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -35,6 +36,7 @@ Here have all solutions which I solved in LeetCode
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Here have all solutions which I solved in LeetCode
 | [0234-palindrome-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -115,6 +118,7 @@ Here have all solutions which I solved in LeetCode
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +208,7 @@ Here have all solutions which I solved in LeetCode
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
