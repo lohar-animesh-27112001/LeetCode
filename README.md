@@ -51,6 +51,7 @@ Here have all solutions which I solved in LeetCode
 | [0202-happy-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
 ## String
 |  |
@@ -66,6 +67,7 @@ Here have all solutions which I solved in LeetCode
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 ## Trie
 |  |
@@ -133,6 +135,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
 ## Depth-First Search
 |  |
 | ------- |
