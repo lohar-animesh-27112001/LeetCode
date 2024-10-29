@@ -11,6 +11,7 @@ Here have all solutions which I solved in LeetCode
 | [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -189,6 +190,7 @@ Here have all solutions which I solved in LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +233,7 @@ Here have all solutions which I solved in LeetCode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0190-reverse-bits) |
