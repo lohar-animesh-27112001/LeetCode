@@ -14,6 +14,7 @@ Here have all solutions which I solved in LeetCode
 | [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0118-pascals-triangle) |
@@ -111,6 +112,7 @@ Here have all solutions which I solved in LeetCode
 | [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -224,6 +226,7 @@ Here have all solutions which I solved in LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
