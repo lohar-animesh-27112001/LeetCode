@@ -11,6 +11,7 @@ Here have all solutions which I solved in LeetCode
 | [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -50,6 +51,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0009-palindrome-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
@@ -186,6 +188,7 @@ Here have all solutions which I solved in LeetCode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
