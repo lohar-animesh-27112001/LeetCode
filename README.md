@@ -29,6 +29,7 @@ Here have all solutions which I solved in LeetCode
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Here have all solutions which I solved in LeetCode
 | [0073-set-matrix-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Here have all solutions which I solved in LeetCode
 | [0118-pascals-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
