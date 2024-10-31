@@ -15,7 +15,7 @@ public:
                 answer[ind][1] = max(v[1], v_back[1]);
             } else {
                 answer.push_back(v);
-                ind ++;
+                ind++;
             }
         }
         return answer;
