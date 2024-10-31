@@ -13,6 +13,7 @@ Here have all solutions which I solved in LeetCode
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0075-sort-colors) |
@@ -232,6 +233,7 @@ Here have all solutions which I solved in LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
