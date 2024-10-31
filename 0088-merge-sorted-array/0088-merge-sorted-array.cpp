@@ -1,7 +1,7 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = 0 , j = 0, index = 0, total = m + n;
+        int i = 0 , j = 0, index = 0;
         while(m > i && n > j) {
             if(nums1[i + j] < nums2[j]) {
                 index++;
@@ -19,7 +19,7 @@ public:
                 j++;
             }
         }
-        nums1.resize(total);
+        nums1.resize(m + n);
     }
     void merge2(vector<int>& nums1, int m, vector<int>& nums2, int n) {
         int i = 0 , j = 0;
