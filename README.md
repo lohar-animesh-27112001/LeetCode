@@ -83,6 +83,7 @@ Here have all solutions which I solved in LeetCode
 | [0344-reverse-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -138,6 +139,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0812-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
