@@ -38,21 +38,19 @@ public:
     vector<int> count_smaller(vector<int>& nums) {
         int n = nums.size();
         vector<int> ans(n, 0);
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++)
             for(int j = i; j < n; j++) {
                 if(nums[j] < nums[i]) {
                     ans[i]++;
                 }
             }
-        }
         return ans;
     }
 private:
     void getRanks(vector<int> &nums, unordered_map<int, int> &ranks) {
         set<int> sorted(nums.begin(), nums.end());
         int rank = 0;
-        for(int num : sorted) {
+        for(int num : sorted)
             ranks[num] = ++rank;
-        }
     }
 };
