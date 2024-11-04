@@ -5,7 +5,7 @@ public:
         int n = word.length();
         for(int i = 0, j = 0; i < n; i = j) {
             int count = 0;
-            while(j < n & word[j] == word[i] && count < 9) {
+            while(j < n && word[i] == word[j] && count < 9) {
                 j++;
                 count++;
             }
