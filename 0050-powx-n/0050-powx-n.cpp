@@ -18,9 +18,7 @@ public:
         return result;
     }
     double myPow2(double x, int n) {
-        if(n == 0) {
-            return 1;
-        }
+        if(n == 0) return 1;
         if(n < 0) return myPow(x, n + 1) * (1 / x);
         else return x * myPow(x, n - 1);
     }
