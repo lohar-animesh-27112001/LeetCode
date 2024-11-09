@@ -1,0 +1,15 @@
+class Solution {
+public:
+    long long minEnd(int n, int x) {
+        int kMaxBit = log2(n) + log2(x) + 2;
+        long k = n - 1;
+        long ans = x;
+        int kBinaryIndex = 0;
+        for(int i = 0; i < kMaxBit; ++i)
+            if((ans >> i & 1) == 0) {
+                if((k >> kBinaryIndex & 1) == 1) ans |= 1L << i;
+                ++kBinaryIndex;
+            }
+        return ans;
+    }
+};
