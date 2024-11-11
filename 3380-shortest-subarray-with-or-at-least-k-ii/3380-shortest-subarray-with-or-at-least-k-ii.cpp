@@ -14,7 +14,7 @@ public:
                 ++i;
             }
         }
-        return (ans == n + 1) ?  -1 : ans;
+        return (ans == n + 1) ? -1 : ans;
     }
 private:
     int kMaxBit = 30;
