@@ -7,7 +7,6 @@ public:
         int kMax = 1000;
         vector<int> primes = sieveEratosthenes(kMax);
         int prevNum = 0;
-
         for (int& num : nums) {
             auto it = lower_bound(primes.begin(), primes.end(), num - prevNum);
             if (it != primes.begin()) {
