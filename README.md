@@ -36,6 +36,7 @@ Here have all solutions which I solved in LeetCode
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -153,6 +154,7 @@ Here have all solutions which I solved in LeetCode
 | [0344-reverse-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Here have all solutions which I solved in LeetCode
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
@@ -283,6 +286,7 @@ Here have all solutions which I solved in LeetCode
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
