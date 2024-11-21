@@ -102,6 +102,7 @@ Here have all solutions which I solved in LeetCode
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3451-string-compression-iii) |
@@ -154,6 +155,7 @@ Here have all solutions which I solved in LeetCode
 | [0344-reverse-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
 |  |
