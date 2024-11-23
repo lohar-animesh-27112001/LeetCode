@@ -33,6 +33,7 @@ Here have all solutions which I solved in LeetCode
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -352,6 +353,7 @@ Here have all solutions which I solved in LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
