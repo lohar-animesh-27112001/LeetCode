@@ -338,6 +338,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -369,4 +370,12 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
