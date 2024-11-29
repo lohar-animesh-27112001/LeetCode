@@ -185,6 +185,7 @@ Here have all solutions which I solved in LeetCode
 | [0287-find-the-duplicate-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -384,4 +385,8 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
