@@ -89,6 +89,7 @@ Here have all solutions which I solved in LeetCode
 | [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -264,11 +265,13 @@ Here have all solutions which I solved in LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
+| [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
