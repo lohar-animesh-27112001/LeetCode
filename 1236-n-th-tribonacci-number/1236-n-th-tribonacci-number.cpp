@@ -4,7 +4,7 @@ public:
         vector<int> memo(n + 1, -1);
         return helper(n, memo);
     }
-
+// Dynamic programming or memoization
 private:
     int helper(int n, vector<int>& memo) {
         if (n == 0) return 0;
