@@ -114,6 +114,7 @@ Here have all solutions which I solved in LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -174,6 +175,7 @@ Here have all solutions which I solved in LeetCode
 | [0345-reverse-vowels-of-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
