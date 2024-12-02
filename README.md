@@ -123,6 +123,7 @@ Here have all solutions which I solved in LeetCode
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -394,6 +395,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
 |  |
