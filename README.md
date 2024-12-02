@@ -43,6 +43,7 @@ Here have all solutions which I solved in LeetCode
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -72,6 +73,7 @@ Here have all solutions which I solved in LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -178,6 +180,7 @@ Here have all solutions which I solved in LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
@@ -321,6 +324,7 @@ Here have all solutions which I solved in LeetCode
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
