@@ -7,6 +7,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0031-next-permutation) |
@@ -156,6 +157,7 @@ Here have all solutions which I solved in LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -339,6 +341,7 @@ Here have all solutions which I solved in LeetCode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
