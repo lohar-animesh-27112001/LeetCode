@@ -70,6 +70,7 @@ Here have all solutions which I solved in LeetCode
 | [0217-contains-duplicate](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -114,6 +115,7 @@ Here have all solutions which I solved in LeetCode
 | [0171-excel-sheet-column-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0383-ransom-note) |
