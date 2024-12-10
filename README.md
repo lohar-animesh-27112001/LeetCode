@@ -204,6 +204,7 @@ Here have all solutions which I solved in LeetCode
 | [0035-search-insert-position](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -219,6 +220,7 @@ Here have all solutions which I solved in LeetCode
 | [0136-single-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0338-counting-bits) |
@@ -312,6 +314,7 @@ Here have all solutions which I solved in LeetCode
 | [0110-balanced-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -327,6 +330,7 @@ Here have all solutions which I solved in LeetCode
 | [0110-balanced-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0904-leaf-similar-trees) |
