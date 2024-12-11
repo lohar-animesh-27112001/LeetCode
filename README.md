@@ -245,6 +245,7 @@ Here have all solutions which I solved in LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
@@ -261,6 +262,7 @@ Here have all solutions which I solved in LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -318,6 +320,7 @@ Here have all solutions which I solved in LeetCode
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -335,6 +338,7 @@ Here have all solutions which I solved in LeetCode
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -369,6 +373,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
