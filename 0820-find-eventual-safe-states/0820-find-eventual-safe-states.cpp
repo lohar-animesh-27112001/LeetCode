@@ -6,11 +6,9 @@ public:
         vector<int> pathVis(v, 0);
         vector<int> safeNodes;
 
-        for (int i = 0; i < v; i++) {
-            if (!vis[i]) {
+        for (int i = 0; i < v; i++)
+            if (!vis[i])
                 dfsCheck(graph, i, vis, pathVis, safeNodes);
-            }
-        }
 
         sort(safeNodes.begin(), safeNodes.end());
         return safeNodes;
