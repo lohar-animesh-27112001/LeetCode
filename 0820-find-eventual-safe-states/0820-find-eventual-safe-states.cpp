@@ -22,12 +22,8 @@ private:
 
         for (auto it : graph[node]) {
             if (!vis[it]) {
-                if (dfsCheck(graph, it, vis, pathVis, safeNodes)) {
-                    return true;
-                }
-            } else if (pathVis[it]) {
-                return true;
-            }
+                if (dfsCheck(graph, it, vis, pathVis, safeNodes)) return true;
+            } else if (pathVis[it]) return true;
         }
 
         safeNodes.push_back(node);
