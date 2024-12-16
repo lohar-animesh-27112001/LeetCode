@@ -253,6 +253,7 @@ Here have all solutions which I solved in LeetCode
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -271,6 +272,7 @@ Here have all solutions which I solved in LeetCode
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
@@ -282,6 +284,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -456,4 +459,8 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
