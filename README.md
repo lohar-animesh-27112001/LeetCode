@@ -43,6 +43,7 @@ Here have all solutions which I solved in LeetCode
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -273,6 +274,7 @@ Here have all solutions which I solved in LeetCode
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
@@ -293,6 +295,7 @@ Here have all solutions which I solved in LeetCode
 | [0074-search-a-2d-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
