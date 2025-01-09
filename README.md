@@ -48,6 +48,7 @@ Here have all solutions which I solved in LeetCode
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -311,6 +312,7 @@ Here have all solutions which I solved in LeetCode
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
@@ -441,6 +443,7 @@ Here have all solutions which I solved in LeetCode
 | [0219-contains-duplicate-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
 |  |
