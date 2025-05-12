@@ -1,16 +1,13 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-        vector<int> v;
-        while(n > 1) {
-            if(n % 2 == 1) {
-                v.push_back(1);
-            }
-            n = n/2;
+        int d = n;
+        int ans = 0;
+        while(d != 0 && d != 1) {
+            if(d % 2 == 1) ans++;
+            d = d / 2;
         }
-        if(n == 1) {
-            return v.size() + 1;
-        }
-        return v.size();
+        if(d == 1) return ++ans;
+        return ans;
     }
 };
