@@ -1,13 +1,18 @@
 class Solution {
+private:
+    void hWeight(int* n, int* ans) {
+        while(*n != 0 && *n != 1) {
+            if(*n % 2 == 1) ++*ans;
+            *n = *n / 2;
+        }
+    }
 public:
     int hammingWeight(int n) {
-        int d = n;
-        int ans = 0;
-        while(d != 0 && d != 1) {
-            if(d % 2 == 1) ans++;
-            d = d / 2;
-        }
-        if(d == 1) return ++ans;
-        return ans;
+        int *d = &n;
+        int a = 0;
+        int *ans = &a;
+        hWeight(d, ans);
+        if(*d == 1) return ++*ans;
+        return *ans;
     }
 };
