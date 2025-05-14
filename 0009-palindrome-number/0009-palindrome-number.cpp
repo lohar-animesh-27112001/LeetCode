@@ -2,11 +2,12 @@ class Solution {
 private:
     int* count(int* x) {
         int* c = new int(0);
-        int num = *x;
-        while(num != 0) {
-            num /= 10;
+        int* num = new int(*x);
+        while(*num != 0) {
+            *num /= 10;
             ++*c;
         }
+        delete num;
         return c;
     }
 
@@ -38,8 +39,6 @@ private:
         while(*j > *i) {
             int* left = getNum(x, j);
             int* right = getNum(x, i);
-            cout << "left:" << *left << ", right:" << *right
-            << ", c:" << *c << "[END]";
             if(*left != *right) {
                 delete c;
                 delete i;
