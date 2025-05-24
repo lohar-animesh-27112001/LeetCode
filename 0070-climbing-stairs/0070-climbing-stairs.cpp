@@ -1,28 +1,30 @@
 class Solution {
+private:
+    void climbStairs(int n, int &ans) { // Only Recursion
+        if(n == 0 || n == 1) {
+            return;
+        }
+        ans++;
+        climbStairs(n-1, ans);
+        climbStairs(n-2, ans);
+    }
+    void climbStairs(int n, vector<int> &dp) { // Recursion + DP
+        if(n == 2 || n == 1) {
+            dp[n] = n;
+            return;
+        }
+        if(dp[n] != -1) return;
+        climbStairs(n-1, dp);
+        climbStairs(n-2, dp);
+        dp[n] = dp[n-1] + dp[n-2];
+    }
 public:
     int climbStairs(int n) {
-        long long prev1 = 1, prev2 = 2;
-        if(n == 1) {
-            return 1;
-        } else if(n == 2) {
-            return 2;
-        }
-        long long sum = 2;
-        for(int i=3; i<=n; i++) {
-            sum = prev1 + prev2;
-            int temp = prev2;
-            prev2 = sum;
-            prev1 = temp;
-        }
-        return sum;
-    }
-
-    int climbStairs2(int n) {
-        if(n == 1) {
-            return 1;
-        } else if(n == 2) {
-            return 2;
-        }
-        return climbStairs(n-1) + climbStairs(n-2);
+        int ans = 1;
+        // climbStairs(n, ans);
+        vector<int> mem(n+1, -1);
+        climbStairs(n, mem);
+        cout << mem[n];
+        return mem[n];
     }
 };
