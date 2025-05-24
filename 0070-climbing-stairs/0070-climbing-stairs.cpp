@@ -20,11 +20,24 @@ private:
     }
 public:
     int climbStairs(int n) {
-        int ans = 1;
+        // Top-Down Approach
+        // int ans = 1;
         // climbStairs(n, ans);
-        vector<int> mem(n+1, -1);
-        climbStairs(n, mem);
-        cout << mem[n];
-        return mem[n];
+        // vector<int> mem(n+1, -1);
+        // climbStairs(n, mem);
+        // cout << mem[n];
+        // return mem[n];
+
+        // Bottom-Up Approach - Tabulation
+        if(n == 1 || n == 2) return n;
+        int first = 1;
+        int second = 2;
+        int ans = 0;
+        for(int i = 3; i <= n; i++) {
+            ans = first + second;
+            first = second;
+            second = ans;
+        }
+        return ans;
     }
 };
