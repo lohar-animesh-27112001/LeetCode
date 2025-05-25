@@ -36,6 +36,7 @@ Here have all solutions which I solved in LeetCode
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0403-frog-jump](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -314,6 +315,7 @@ Here have all solutions which I solved in LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1013-fibonacci-number) |
