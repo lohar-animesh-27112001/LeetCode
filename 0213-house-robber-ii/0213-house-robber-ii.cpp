@@ -24,9 +24,6 @@ public:
         rob(nums, 0, mem1, range - 1);
         rob(nums, 1, mem2, range);
         rob(nums, 2, mem3, range);
-        // for(auto i:mem1) cout << i << " ";
-        // cout << endl;
-        // for(auto i:mem2) cout << i << " ";
         return max(mem1[0], max(mem2[1], mem3[2]));
     }
 };
