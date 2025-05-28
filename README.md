@@ -99,6 +99,7 @@ Here have all solutions which I solved in LeetCode
 | [0013-roman-to-integer](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0069-sqrtx) |
@@ -311,6 +312,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -483,4 +485,8 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
