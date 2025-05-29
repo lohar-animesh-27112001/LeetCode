@@ -47,6 +47,7 @@ Here have all solutions which I solved in LeetCode
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0792-binary-search) |
+| [1022-unique-paths-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -239,6 +240,7 @@ Here have all solutions which I solved in LeetCode
 | [0268-missing-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0338-counting-bits) |
+| [1022-unique-paths-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -307,6 +309,7 @@ Here have all solutions which I solved in LeetCode
 | [0074-search-a-2d-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+| [1022-unique-paths-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -492,4 +495,8 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
