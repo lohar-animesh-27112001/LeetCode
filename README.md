@@ -48,6 +48,7 @@ Here have all solutions which I solved in LeetCode
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0792-binary-search) |
+| [0967-minimum-falling-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -310,6 +311,7 @@ Here have all solutions which I solved in LeetCode
 | [0074-search-a-2d-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1036-rotting-oranges) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -332,6 +334,7 @@ Here have all solutions which I solved in LeetCode
 | [0403-frog-jump](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
