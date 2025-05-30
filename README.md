@@ -23,6 +23,7 @@ Here have all solutions which I solved in LeetCode
 | [0088-merge-sorted-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0136-single-number) |
@@ -321,6 +322,7 @@ Here have all solutions which I solved in LeetCode
 | [0063-unique-paths-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0198-house-robber) |
