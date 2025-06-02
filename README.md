@@ -26,6 +26,7 @@ Here have all solutions which I solved in LeetCode
 | [0120-triangle](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0198-house-robber) |
@@ -422,6 +423,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0011-container-with-most-water](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
