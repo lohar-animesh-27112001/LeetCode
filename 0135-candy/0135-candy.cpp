@@ -1,6 +1,7 @@
 class Solution {
 private:
     int n = 0;
+
     void candy(vector<int>& ratings, int i, int c, vector<int>& curr) {
         if (i >= n) return;
         curr[i] = max(curr[i], c);
@@ -12,6 +13,7 @@ private:
                 curr[i] = curr[i + 1] + 1;
         }
     }
+
 public:
     int candy(vector<int>& ratings) {
         n = ratings.size();
