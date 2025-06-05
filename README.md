@@ -146,6 +146,7 @@ Here have all solutions which I solved in LeetCode
 | [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0812-rotate-string) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
@@ -301,6 +302,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Graph
 |  |
 | ------- |
