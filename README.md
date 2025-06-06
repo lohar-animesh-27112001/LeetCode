@@ -95,6 +95,7 @@ Here have all solutions which I solved in LeetCode
 | [1392-find-the-difference-of-two-arrays](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -154,6 +155,7 @@ Here have all solutions which I solved in LeetCode
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3451-string-compression-iii) |
@@ -169,6 +171,7 @@ Here have all solutions which I solved in LeetCode
 | [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Linked List
 |  |
 | ------- |
@@ -432,6 +435,7 @@ Here have all solutions which I solved in LeetCode
 | [0605-can-place-flowers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
 |  |
