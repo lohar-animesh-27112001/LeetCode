@@ -98,6 +98,7 @@ Here have all solutions which I solved in LeetCode
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Here have all solutions which I solved in LeetCode
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3451-string-compression-iii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
@@ -172,6 +174,7 @@ Here have all solutions which I solved in LeetCode
 | [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
 | ------- |
@@ -437,11 +440,13 @@ Here have all solutions which I solved in LeetCode
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2716-prime-subtraction-operation](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
 | ------- |
