@@ -166,6 +166,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
@@ -276,6 +277,7 @@ Here have all solutions which I solved in LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
