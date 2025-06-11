@@ -164,6 +164,7 @@ Here have all solutions which I solved in LeetCode
 | [3451-string-compression-iii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3451-string-compression-iii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -487,6 +488,7 @@ Here have all solutions which I solved in LeetCode
 | [0724-find-pivot-index](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -495,6 +497,7 @@ Here have all solutions which I solved in LeetCode
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -534,4 +537,5 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
