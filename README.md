@@ -71,6 +71,7 @@ Here have all solutions which I solved in LeetCode
 | [3227-find-missing-and-repeated-values](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
