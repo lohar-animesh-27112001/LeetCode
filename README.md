@@ -43,6 +43,7 @@ Here have all solutions which I solved in LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0724-find-pivot-index) |
@@ -92,6 +93,7 @@ Here have all solutions which I solved in LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -486,6 +488,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
