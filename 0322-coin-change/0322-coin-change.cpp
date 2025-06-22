@@ -3,8 +3,9 @@ private:
     int n = 0;
     int final_count = INT_MAX;
     vector<int> dp;
-    int coinChange(vector<int>& coins, int amount, long long sum, int count) {
-        if (sum > amount) return LLONG_MAX;
+    int coinChange(vector<int>& coins, int amount, 
+                    long long sum, int count) {
+        if (sum > amount) return INT_MAX;
         if (sum == amount) {
             final_count = min(final_count, (int)count);
             return count;
