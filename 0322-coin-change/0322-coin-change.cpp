@@ -3,17 +3,17 @@ private:
     int n = 0;
     int final_count = INT_MAX;
     vector<int> dp;
-    long long coinChange(vector<int>& coins, int amount, long long sum, long long count) {
+    int coinChange(vector<int>& coins, int amount, long long sum, int count) {
         if (sum > amount) return LLONG_MAX;
         if (sum == amount) {
             final_count = min(final_count, (int)count);
             return count;
         }
-        if (dp[sum] != -1 && dp[sum] <= count) return LLONG_MAX;
+        if (dp[sum] != -1 && dp[sum] <= count) return INT_MAX;
         dp[sum] = count;
-        long long min_count = LLONG_MAX;
+        int min_count = INT_MAX;
         for (int coin : coins) {
-            long long res = coinChange(coins, amount, sum + coin, count + 1);
+            int res = coinChange(coins, amount, sum + coin, count + 1);
             min_count = min(min_count, res);
         }
         return min_count;
