@@ -7,7 +7,7 @@ private:
                     long long sum, int count) {
         if (sum > amount) return INT_MAX;
         if (sum == amount) {
-            final_count = min(final_count, (int)count);
+            final_count = min(final_count, count);
             return count;
         }
         if (dp[sum] != -1 && dp[sum] <= count) return INT_MAX;
