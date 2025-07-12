@@ -15,7 +15,7 @@ private:
     void print_lcs(string& text1, string& text2) {
         int i = m, j = m;
         string str = "";
-        while(i > 0 && j > 0) {  // ✅ Fixed bounds check
+        while(i > 0 && j > 0) {
             if(text1[i - 1] == text2[j - 1]) {
                 str += text1[i - 1];
                 i--;
