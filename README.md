@@ -152,6 +152,7 @@ Here have all solutions which I solved in LeetCode
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -357,6 +358,7 @@ Here have all solutions which I solved in LeetCode
 | [0338-counting-bits](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0403-frog-jump) |
+| [0516-longest-palindromic-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
