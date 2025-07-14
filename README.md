@@ -159,6 +159,7 @@ Here have all solutions which I solved in LeetCode
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -365,6 +366,7 @@ Here have all solutions which I solved in LeetCode
 | [0967-minimum-falling-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
