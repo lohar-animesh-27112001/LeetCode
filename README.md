@@ -137,6 +137,7 @@ Here have all solutions which I solved in LeetCode
 | [0014-longest-common-prefix](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0072-edit-distance) |
@@ -201,6 +202,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -347,6 +349,7 @@ Here have all solutions which I solved in LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -451,6 +454,7 @@ Here have all solutions which I solved in LeetCode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
