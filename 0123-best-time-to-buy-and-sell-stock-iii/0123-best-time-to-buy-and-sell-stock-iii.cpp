@@ -1,38 +1,38 @@
 class Solution {
 private:
     int num = 0;
-    // int maxProf(vector<int>& prices) {
-    //     int n = prices.size();
-    //     if(n <= 1) return 0;
-    //     int f = INT_MIN, s = INT_MIN, buy = prices[0];
-    //     for(int i = 1; i < n; i++) {
-    //         if(prices[i] >= prices[i-1]) continue;
-    //         else {
-    //             int prof = prices[i-1] - buy;
-    //             if(prof > f) {
-    //                 int temp = f;
-    //                 f = prof;
-    //                 s = temp;
-    //             } else if(prof > s) {
-    //                 s = prof;
-    //             }
-    //             buy = prices[i];
-    //         }
-    //     }
-    //     if(prices[n-1] >= prices[n-2]) {
-    //         int prof = prices[n-1] - buy;
-    //         if(prof > f) {
-    //             int temp = f;
-    //             f = prof;
-    //             s = temp;
-    //         } else if(prof > s) {
-    //             s = prof;
-    //         }
-    //     }
-    //     s = (s == INT_MIN ? 0 : s);
-    //     f = max(0, f);
-    //     return s + f;
-    // }
+    int maxProf(vector<int>& prices) {
+        int n = prices.size();
+        if(n <= 1) return 0;
+        int f = INT_MIN, s = INT_MIN, buy = prices[0];
+        for(int i = 1; i < n; i++) {
+            if(prices[i] >= prices[i-1]) continue;
+            else {
+                int prof = prices[i-1] - buy;
+                if(prof > f) {
+                    int temp = f;
+                    f = prof;
+                    s = temp;
+                } else if(prof > s) {
+                    s = prof;
+                }
+                buy = prices[i];
+            }
+        }
+        if(prices[n-1] >= prices[n-2]) {
+            int prof = prices[n-1] - buy;
+            if(prof > f) {
+                int temp = f;
+                f = prof;
+                s = temp;
+            } else if(prof > s) {
+                s = prof;
+            }
+        }
+        s = (s == INT_MIN ? 0 : s);
+        f = max(0, f);
+        return s + f;
+    }
     int profit(vector<int>& prices, int &index) {
         int sell = 0, hold = INT_MIN, p = 0;
         for(int i = 0; i < index; i++){
