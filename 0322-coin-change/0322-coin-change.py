@@ -27,8 +27,8 @@ class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         if(amount == 0):
             return 0
-        if(len(coins) == 0):
-            return -1
+        # if(len(coins) == 0):
+        #     return -1
         # self.recCoinChange(coins, amount, 0, 0)
         arr = []
         for i in range (0, amount):
