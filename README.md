@@ -160,6 +160,7 @@ Here have all solutions which I solved in LeetCode
 | [0516-longest-palindromic-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0812-rotate-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1143-longest-common-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -378,6 +379,7 @@ Here have all solutions which I solved in LeetCode
 | [0747-min-cost-climbing-stairs](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
