@@ -566,4 +566,8 @@ Here have all solutions which I solved in LeetCode
 | [3201-distribute-candies-among-children-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
