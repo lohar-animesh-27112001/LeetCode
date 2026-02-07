@@ -189,6 +189,7 @@ Here have all solutions which I solved in LeetCode
 | ------- |
 | [0020-valid-parentheses](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -534,6 +535,7 @@ Here have all solutions which I solved in LeetCode
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/lohar-animesh-27112001/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
